@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/nathan-santiago/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://devpost.com/santiagonathan9254?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-purple?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
+  </a>
 </div>
 
 ### Hi there 👋
