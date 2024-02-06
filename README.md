@@ -44,4 +44,4 @@ I am studying computer science at the University of North Carolina at Chapel Hil
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nathansantiago&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathansantiago&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
