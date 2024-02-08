@@ -17,7 +17,7 @@
 
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I am studying computer science at the University of North Carolina at Chapel Hill.
+I am a passionate student studying computer science at the University of North Carolina at Chapel Hill. My programming journey started with creating simple games in BASIC such as Snake, Tetris, and a turn-based RPG. From there I delved into Unity and using C# created many smaller games such as a simple FPS target practice game, an endless runner, and a full-length fencing RPG. Over the past year, I've become more interested in using my coding knowledge to create web apps to improve our everyday lives. My passion for creating inspires me every day to improve my skills and build more.
 - 🔭 I'm currently working on an app that stores information on various freshwater mussels.
 - 🌱 I'm currently learning how to use React to create dynamic web applications.
 - 🤔 I'm looking for help with learning React.
