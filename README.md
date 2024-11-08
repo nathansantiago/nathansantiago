@@ -20,9 +20,9 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 I am a passionate student studying computer science at the University of North Carolina at Chapel Hill. My programming journey started with creating simple games in BASIC such as Snake, Tetris, and a turn-based RPG. From there I delved into Unity and using C# created many smaller games such as a simple FPS target practice game, an endless runner, and a full-length fencing RPG. Over the past year, I've become more interested in using my coding knowledge to create web apps and delve into data visualization to improve our everyday lives. My passion for creating inspires me every day to sharpen my technical skills and build more.
-- 🔭 I'm currently working on two apps. With a team of fellow UNC students we are creating a nutrition app that will revolutionize eating at the dining hall. My other project is a guide to allergen free dining in the Chapel Hill area. My project's code is on a private repository which is why it may seem like my account is inactive.
-- 🌱 I'm currently learning how to implement a React frontend with an Express backend and a Mongo database to create fullstack applications.
-- 🤔 I'm looking for passionate developers interested in creating startups.
+- 🔭 I'm currently working on RamEats. With a team of fellow UNC students we are creating a nutrition app that will revolutionize eating at the dining hall. Currently has 20 people on the waitlist, reach out to me if you'd like to join it too!
+- 🌱 I'm currently learning how to improve code organization in hopes of improving code reability.
+- 🤔 I'm looking for other passionate developers obsessed with building.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-santiago/)
 
 ---
