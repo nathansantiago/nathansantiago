@@ -21,8 +21,8 @@
 
 I am a passionate student studying computer science at the University of North Carolina at Chapel Hill. My programming journey started with creating simple games in BASIC an old TI-84 such as Snake, Tetris, and a turn-based RPG. From there I delved into Unity and using C# created many smaller games such as a simple FPS target practice game, an endless runner, and a full-length fencing RPG (which won second place at NC TSA). Over the past few years, I've become more interested in using my coding knowledge to create web apps and delve into data visualization to improve our everyday lives. My passion for creating inspires me every day to sharpen my technical skills and build more.
 
-- 🔭 I'm currently working on RamEats. With a team of fellow UNC students we are creating a nutrition app that will revolutionize eating at the dining hall. Currently has 20 people on the waitlist, reach out to me if you'd like to join it too!
-- 🌱 I'm currently learning about how RAG (Retrieval Augmented Generation) and its potential usage in web applications.
+- 🔭 I'm currently working on RamEats. With a team of fellow UNC students we are creating a nutrition app that will revolutionize eating at the dining hall. Currently has 20 people on the waitlist, reach out to me if you'd like to join it too! (Unfortunately we got beat to market; more coming soon on my new project).
+- 🌱 I'm currently learning about RAG (Retrieval Augmented Generation) and its potential usage in web applications.
 - 🤔 I'm looking for other passionate developers obsessed with building and startups.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-santiago/)
 
