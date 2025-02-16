@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hscnk2dzN6a3QyNmIzZjg5MTFnYzh2MTlmdDNicXYzd2Z6aHNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnDRNekrgtHh5jXMna/giphy.gif" height="300px"/> </div>
+<div align="center"> <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" max-width="100%"/> </div>
 
 <table>
   <tr>
