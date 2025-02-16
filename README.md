@@ -62,6 +62,17 @@
 
 ### My Stats :
 
+<table align="center">
+<tr>
+<td>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nathansantiago&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+</td>
+<td>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathansantiago&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
