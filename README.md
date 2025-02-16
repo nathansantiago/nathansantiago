@@ -20,7 +20,7 @@
 
 <div align="center"> 
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" max-width="100%"/> 
-  <q>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination.</q> - Fred Brooks
+  <q>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination.</q> <br/>- Fred Brooks
 </div>
 
 <table>
