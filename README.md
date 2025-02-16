@@ -18,9 +18,18 @@
 
 ---
 
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hscnk2dzN6a3QyNmIzZjg5MTFnYzh2MTlmdDNicXYzd2Z6aHNzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnDRNekrgtHh5jXMna/giphy.gif" height="300px"/> </div>
 
-I am a passionate student studying computer science at the University of North Carolina at Chapel Hill. My programming journey started with creating simple games in BASIC an old TI-84 such as Snake, Tetris, and a turn-based RPG. From there I delved into Unity and using C# created many smaller games such as a simple FPS target practice game, an endless runner, and a full-length fencing RPG (which won second place at NC TSA). I've since pivoted to using my coding knowledge to create web apps and delve into data visualization with the goal of improving our everyday lives. My passion for creating inspires me every day to sharpen my technical skills and build more. If you are obsessed with building as well lets get in touch.
+<table>
+  <tr>
+    <td>
+      I am a passionate student studying computer science at the University of North Carolina at Chapel Hill. My programming journey started with creating simple games in BASIC an old TI-84 such as Snake, Tetris, and a turn-based RPG. From there I delved into Unity and using C# created many smaller games such as a simple FPS target practice game, an endless runner, and a full-length fencing RPG (which won second place at NC TSA). I've since pivoted to using my coding knowledge to create web apps and delve into data visualization with the goal of improving our everyday lives. My passion for creating inspires me every day to sharpen my technical skills and build more. If you are obsessed with building as well lets get in touch.
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVlamQ0b3Y3enl5bndsMmM2dHhhbDF1ZmNhajN2aWtvcTNkMncybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPdwt79PXjMEo/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 - 🔭 I'm currently working on Brightstar Ventures. I have teamed up with a group of highly motivated devs to create the tech solutions your company needs.
 - 🌱 I'm currently learning about improving user experience from the first impression of a product.
