@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW02Z3ptM3dodXhuYXV2cGx5NWdvaHFnN2t0bzJzOGlscWNudHA4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWShJYsXPeCSasM0Hb/giphy.gif" width="200"/>
-  <p>⛰️Climbing mountains to deliver the best product!⛰️</p>
+  <p>⛰️Climbing mountains to deliver you the best product!⛰️</p>
 </div>
 
 <div id="badges" align="center">
