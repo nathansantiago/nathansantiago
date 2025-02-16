@@ -20,7 +20,6 @@
 
 <div align="center"> 
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" max-width="100%"/> 
-  <q>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination.</q> <br/>- Fred Brooks
 </div>
 
 <table>
@@ -56,6 +55,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
+</div>
+
+---
+
+<div align="center">
+<img width="75%" src="https://www.azquotes.com/picture-quotes/quote-the-programmer-like-the-poet-works-only-slightly-removed-from-pure-thought-stuff-he-fred-brooks-74-79-48.jpg"/>
 </div>
 
 ---
