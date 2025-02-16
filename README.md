@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc3emprcTI3MGhnbjdldmV2cHU4NXpqbmo1ZW9scm1zNTl6c29vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW02Z3ptM3dodXhuYXV2cGx5NWdvaHFnN2t0bzJzOGlscWNudHA4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QWShJYsXPeCSasM0Hb/giphy.gif" width="200"/>
+  <p>⛰️Climbing mountains to deliver the best product!⛰️</p>
 </div>
 
 <div id="badges" align="center">
