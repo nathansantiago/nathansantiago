@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>
-      I am a passionate student studying computer science at the University of North Carolina at Chapel Hill. My programming journey started with creating simple games in BASIC an old TI-84 such as Snake, Tetris, and a turn-based RPG. From there I delved into Unity and using C# created many smaller games such as a simple FPS target practice game, an endless runner, and a full-length fencing RPG (which won second place at NC TSA). I've since pivoted to using my coding knowledge to create web apps and delve into data visualization with the goal of improving our everyday lives. My passion for creating inspires me every day to sharpen my technical skills and build more. If you are obsessed with building as well lets get in touch.
+      I am a passionate developer studying computer science at the University of North Carolina at Chapel Hill in my freetime. My programming journey started many years ago with creating simple games in BASIC on an old TI-84. Some notable mentions are Snake (pretty hard to implement when I hadn't learned algebra yet), Tetris, and a turn-based RPG. From there I turned to Unity and C# creating many games such as a FPS target practice game, an endless runner, and a full-length fencing RPG (which won second place at NC TSA). I've since pivoted to full stack web development with the goal of improving our everyday lives. Currently I work with VirnikaAI revolutionizing restaraunt operations across the globe through the power of smart design and ai. I am also a founding member of Brightstar Ventures where I work on various contracts for clients from RAP pipelines to designing web sites. My obsession with making rocks think inspires me every day to sharpen my technical skills and build more. If you are obsessed with building as well lets get in touch.
     </td>
     <td>
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVlamQ0b3Y3enl5bndsMmM2dHhhbDF1ZmNhajN2aWtvcTNkMncybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPdwt79PXjMEo/giphy.gif" width="300"/>
@@ -34,7 +34,7 @@
 </table>
 
 - 🔭 I'm currently working on Brightstar Ventures. I have teamed up with a group of highly motivated devs to create the tech solutions your company needs.
-- 🌱 I'm currently learning about improving user experience from the first impression of a product.
+- 🌱 I'm currently learning about theoretical computer science, probability, and hardware to improve my fundamentals.
 - 🤔 I'm looking for other passionate developers obsessed with building and startups.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nathan_Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-santiago/)
 
