@@ -71,7 +71,7 @@
 <tr>
 <td>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nathansantiago&theme=dark&hide_border=true&exclude_repo=MusselWebscraping,UnitedStatesWeather)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nathansantiago&exclude_repo=MusselWebscraping,UnitedStatesWeather&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </td>
 <td>
